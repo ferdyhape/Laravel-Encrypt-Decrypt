@@ -86,12 +86,20 @@ The encryption and decryption processes are handled in the model using accessors
 ## :camera: Screenshots
 
 1. Dashboard
-   <img src="https://github.com/user-attachments/assets/fb7064de-5df3-43b2-a97a-ed36d15c3d5b" width="75%">
+
+<img src="https://github.com/user-attachments/assets/fb7064de-5df3-43b2-a97a-ed36d15c3d5b" width="75%">
+
 2. Category Management
-   <img src="https://github.com/user-attachments/assets/57b30645-5633-4e93-97b0-8254646e9afd" width="75%">
+
+<img src="https://github.com/user-attachments/assets/57b30645-5633-4e93-97b0-8254646e9afd" width="75%">
 3. Product Management
-   <img src="https://github.com/user-attachments/assets/0517c2bd-987e-49de-8c06-c902f462d2ad" width="75%">
+
+<img src="https://github.com/user-attachments/assets/0517c2bd-987e-49de-8c06-c902f462d2ad" width="75%">
+
 4. Data On Product Table
-   <img src="https://github.com/user-attachments/assets/73445930-b8cf-40d7-9b87-23bdc9701e51" width="75%">
+
+<img src="https://github.com/user-attachments/assets/73445930-b8cf-40d7-9b87-23bdc9701e51" width="75%">
+
 5. Data On Category Table
-   <img src="https://github.com/user-attachments/assets/d1026f82-6b5c-4851-87fd-659c1ddd80b5" width="75%">
+
+<img src="https://github.com/user-attachments/assets/d1026f82-6b5c-4851-87fd-659c1ddd80b5" width="75%">
